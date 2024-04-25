@@ -1,0 +1,12 @@
+.deleteorder{
+    border: 1px solid red;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.deleteorder:hover{
+    background-color: crimson;
+    color: white;
+}
+.myorder-cancel{
+    margin-top: 10px;
+}

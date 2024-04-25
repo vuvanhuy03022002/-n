@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+  }
+
+.headerz{
+    padding: 5px;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.review{
+    background-color: white;
+    margin: 0px 0px 0px 20px ;
+    width: 97%;
+}
+.review h2{
+    padding-left: 20px;
+    text-align: left;
+    color: #6b6b6b;
+}
+table tr td img{
+    width: 150px;
+    height: 120px;
+}
+table tr td {
+    padding: 10px;
+}
+
+
+
+.contantview table th{
+    color: #6b6b6b;
+    font-size: 18px;
+    text-align: center;
+    background: #f9f9f9;
+    padding: .5rem 0;
+ 
+}

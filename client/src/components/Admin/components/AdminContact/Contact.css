@@ -1,0 +1,21 @@
+.contact{
+    margin: 20px;
+    width:98%;
+}
+.contact h2{
+    margin-top: 5px;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 25px;
+    color: #6b6b6b;
+    background-color: white;
+    padding: 10px;
+    position: sticky;
+}
+.contantview{
+    background-color: white;
+    width: 100%;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-top: 5px;
+}

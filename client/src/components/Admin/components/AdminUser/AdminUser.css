@@ -1,0 +1,136 @@
+.admin-user span{
+    display: flex;
+    padding: 1rem;
+    font-size: 20px;
+    font-weight: 600;
+    color: #6b6b6b;
+}
+.ant-pagination{
+    background-color: white;
+    padding: 10px;
+    margin-left: 15px;
+    margin-right: 10px;
+    border-top: 1px solid gray;
+}
+.vv{
+    display: flex;
+    background-color: white;
+    width: 98%;
+    padding: 10px 10px 0 10px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    margin-top: -30px;
+}
+.vv p{
+    margin-left: 44%;
+    font-size: 25px;
+    font-weight: 600;
+    color: #6b6b6b;
+}
+
+.admin-user-list{
+    background: white;
+    margin: 0 .5rem 0 1rem;
+    color: #6b6b6b;
+    padding: 1rem;
+
+    border-radius: 4px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+table{
+    width: 100%;
+    text-align: left;
+    /* padding: 1rem; */
+}
+
+table th{
+    color: #6b6b6b;
+    font-size: 18px;
+    font-weight: 600;
+    background: #f9f9f9;
+    padding: .5rem 0;
+    min-width: 30px;
+}
+table td{
+    padding: .5rem 0;
+    font-size: 16px;
+}
+tr .delete-user{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}
+tr .delete-user span{
+    border-radius: 50%;
+}
+tr .delete-user:hover{
+
+    transition: .3s;
+}
+tr .delete-user:hover span{
+    color: white;
+}
+
+.createuserz{
+    text-align: left;
+    color: #6b6b6b;
+    padding-left: 20px;
+}
+.createuser{
+    color: #6b6b6b;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.createuser div{
+    padding: 10px 20px;   
+}
+.createuser div input{
+    width: 100%;
+    height: 40px;
+}
+
+.createuser button{
+    margin-top: 50px;
+    width: 100%;
+    border-radius: 20px;
+    padding: .7rem 5rem;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    background-color: white;
+    border: 1px solid gray;
+}
+.createuser button:hover{
+
+    color: white;
+}
+
+.updateUserz h2{
+    padding-left: 20px;
+    text-align: left;
+    color: #6b6b6b;
+}
+.updateUser{
+    background-color: white;
+    margin-left: 20px;
+}
+
+.updateUser input{
+    width: 100%;
+    height: 40px;
+    margin: 10px 20px;
+}
+.updateUser button{
+    margin-top: 50px;
+    width: 100%;
+    border-radius: 20px;
+    padding: .7rem 5rem;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    background-color: white;
+    border: 1px solid gray;
+}

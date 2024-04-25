@@ -1,0 +1,83 @@
+
+.pay-container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 1px 2px 3px 1px;
+    background-color: #f9f9f9;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 10px;
+    height: 60px;
+  }
+  
+  .header h3 {
+    font-family: -apple-system, system-UI, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    margin-top: 10px;
+    font-size: 1.5em; /* Kích thước font chữ tiêu đề */
+  }
+  
+  
+  .order-info {
+    margin-top: 20px;
+  }
+  
+  .horizontal-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .horizontal-info p {
+    width: 80%;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    display: flex;
+    font-family: -apple-system, system-UI, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+ 
+  .horizontal-info p {
+    width: 70%;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-family: -apple-system, system-UI, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  }
+  .order_code{
+    font-size: 17px;
+    font-weight: 700;
+  }
+  .table {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .table th,
+  .table td {
+   
+    padding: 8px;
+  }
+  
+  .continue-shopping {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .continue-shopping a {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #d70018;
+    color: white;
+    transition: all 0.3s ease;
+    font-family: -apple-system, system-UI, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+
+  }
+  
+  .continue-shopping a:hover {
+    background-color: #a60012;
+  }
